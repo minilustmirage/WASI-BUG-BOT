@@ -3,13 +3,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2250555581921"
+global.ownernomer = "2250505601311"
 global.ownername = "🐛 MR WASI "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
-global.ownernumber = '2250555581921'  //creator number
+global.ownernumber = '2250505601311'  //creator number
 global.ownername = ' MR WASI ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
